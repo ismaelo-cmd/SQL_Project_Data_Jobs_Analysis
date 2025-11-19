@@ -62,7 +62,7 @@ in job titles, from Data Analyst to Director of
 Analytics, reflecting varied roles and
 specializations within data analytics.
 
-[![alt text]](https://github.com/ismaelo-cmd/SQL_Project_Data_Jobs_Analysis/blob/de769c018b8f2a0e74585e3adfbad570b0ef2986/Assets/image-1.png)
+(https://github.com/ismaelo-cmd/SQL_Project_Data_Jobs_Analysis/blob/de769c018b8f2a0e74585e3adfbad570b0ef2986/Assets/image-1.png)
 
 *Bar graph visualizing the salary for the top 10
 salaris for data analysts; i used Excel to visualise it,
